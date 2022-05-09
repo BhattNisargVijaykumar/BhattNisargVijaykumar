@@ -9,6 +9,7 @@
 - 📫 How to reach me: bhattnisargv@gmail.com
 - ⚡ Fun fact: I'm fresher and I love to learn new things.
 
+### Contact Me
 <div id="badges">
   <a href="https://www.linkedin.com/in/bhatt-nisarg-19a4b71b2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
