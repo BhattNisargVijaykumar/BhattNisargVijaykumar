@@ -3,8 +3,7 @@
 - 👋 Hi, I am Nisarg Bhatt
 - 👀 I'm interrested in Web Development
 - 🌱 I’m currently learning PHP-Magento
-- 👯 I’m looking to collaborate on PHP(Laravel - CodeIgniter) or NodeJs
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on PHP(Magento - Laravel) or NodeJs
 - 💬 Ask me about Anything
 - 📫 How to reach me: bhattnisargv@gmail.com
 - ⚡ Fun fact: I'm fresher and I love to learn new things.
