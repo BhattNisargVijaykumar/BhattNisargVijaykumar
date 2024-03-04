@@ -2,8 +2,8 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=BhattNisargVijaykumar&style=flat-square&color=blue" alt="Profile Badge"/> -->
 - 👋 Hi, I am Nisarg Bhatt
 - 👀 I'm interrested in Web Development
-- 🌱 I’m currently learning PHP-Magento
-- 👯 I’m looking to collaborate on PHP(Magento - Laravel) or NodeJs
+- 🌱 I’m currently working in PHP with Magento framework.
+- 👯 I’m interested in VueJs or NodeJs
 - 💬 Ask me about Anything
 - 📫 How to reach me: bhattnisargv@gmail.com
 - ⚡ Fun fact: I'm fresher and I love to learn new things.
